@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4233483363",
+    "project_id": "session25-flutter",
+    "storage_bucket": "session25-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4233483363:android:f01cce0d96e20753d15456",
+        "android_client_info": {
+          "package_name": "com.example.session25_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMf3vw6JA8em9ECI4RIzN_CErVYffWDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
